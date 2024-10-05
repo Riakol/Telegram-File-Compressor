@@ -1,6 +1,6 @@
 # File Archiver
 
-This program collects files from a specified directory and compresses them into RAR archives, with a maximum size limit of 2 GB per archive. The naming convention for the RAR files is based on the folder name, with a suffix added to indicate the archive number (e.g., `_1`, `_2`, etc.).
+This program collects files from a specified directory and compresses them into RAR archives, with a maximum size limit of 2 GB per archive. The naming convention for the RAR files is based on the folder name, with a suffix added to indicate the archive number (e.g., `_1`, `_2`, etc.). The created archive files are stored in the selected folder.
 
 ## Features
 
