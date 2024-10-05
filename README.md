@@ -12,7 +12,7 @@ This program collects files from a specified directory and compresses them into 
 
 1. Specify the directory path from which to collect files.
 2. Run the program to create the RAR archives.
-3. The archives will be named according to the folder name and sent to your Telegram.
+3. The archives will be named according to the folder name.
 
 ## Requirements
 
